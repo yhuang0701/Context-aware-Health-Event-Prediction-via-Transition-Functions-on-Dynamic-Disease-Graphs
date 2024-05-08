@@ -17,3 +17,6 @@ python train.py
 
 ## Configuration
 Please see `train.py` for detailed configurations.
+
+## Demo Code
+Please download `project-demo.ipynb` for a quick run.
